@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React, Docker, and more!
 - 💞️ I’m looking to collaborate on any projects that help others!
 - 📫 How to reach me: email me at dj.min43@gmail.com!
+- 🦬 Meet me at https://dj-min43.medium.com/
 
 <!---
 djmin43/djmin43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
