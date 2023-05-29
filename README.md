@@ -3,7 +3,6 @@
 - 🦬 Meet me at https://dj-min43.medium.com/
 - 🤷‍♂️ FE Engineer at FreeD Soft
 - 👾 My expertise are Front-end technologies including Typescript, React, and Nextjs. 
-- 🏃‍♂️ Others(rust, java, go, swift) are just my hobbies, really.
 <!---
 djmin43/djmin43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
